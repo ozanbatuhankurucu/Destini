@@ -1,6 +1,7 @@
 # destini
 
 A new Flutter project.
+![alt text](https://i.hizliresim.com/Uo4an7.png)
 
 ## Getting Started
 
