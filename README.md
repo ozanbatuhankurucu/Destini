@@ -1,8 +1,8 @@
 # destini
 
-A new Flutter project.
-![alt text](https://i.hizliresim.com/Uo4an7.png)
 
+![alt text](https://i.hizliresim.com/Uo4an7.png)
+![alt text](https://i.hizliresim.com/oz1mSh.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
